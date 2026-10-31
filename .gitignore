@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Documents: never commit input or output files, they often contain personal data
+*.ai
+*.vectorcraft
+*.pdf
+*.psd
+*.png
+*.jpg
+*.svg
+
+# macOS
+.DS_Store
